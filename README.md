@@ -3,4 +3,4 @@ This directory contains the measurement data and analysis for research about the
 
 All measurement data is contained in two spreadsheets. The data analysis was performed in a Python lab journal, alternating between coding and text descriptions. The measurement data and lab journal are open source available via this GitHub directory. The lab journal can also be accessed via the following URL: https://colab.research.google.com/drive/1nvZJXq2g545gIRXNmGi-jrc8Qy_1q-26?usp=sharing 
 
-The files NaI(Tl)_BG.txt and LaBr3(Ce)_BG.txt contain exported background gamma spectra.
+The files NaI(Tl)_BG.txt and LaBr3(Ce)_BG.txt contain the exported background gamma spectra (02/03/2022).
